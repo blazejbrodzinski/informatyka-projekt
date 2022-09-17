@@ -1,6 +1,12 @@
 #!/usr/bin/env python
 # -*- coding: utf-8 -*-
 """
+
+Eksperyemnt został zaprojektowany w builderze
+grupa: Błażej Brodziński, Aleksandra Kędziora, Aleksandra Maziarka
+
+
+
 This experiment was created using PsychoPy3 Experiment Builder (v2022.2.4),
     on September 16, 2022, at 19:42
 If you publish work using this script the most relevant publication is:
